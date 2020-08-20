@@ -1,0 +1,3 @@
+venv/*
+.ipynb_checkpoints/quantum_eraser-checkpoint.ipynb
+.vscode/settings.json
